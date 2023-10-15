@@ -1,1 +1,1 @@
-# Balaji-s-Calculator
+This is a web calculator which can do operations like addition, subtraction, multiplication, division, decimal, assignment, delete number, clear all numbers and has digits from 0 to 9.
